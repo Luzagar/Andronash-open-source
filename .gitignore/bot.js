@@ -8,8 +8,8 @@ const tmiConfig = {
         reconnect:  true
     },
     identity: {
-        username: "andronash",
-        password: "oauth:f2q2nviavg19e908i6902dmrvmlc87"
+        username: "",
+        password: "oauth:""
     },
     channels: [
         "Nashray_"
