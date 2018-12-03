@@ -24,7 +24,7 @@ bot.on('connected', (adress, port) => {
 const prefix = "!";
 bot.on('chat', (channel, user, message, self) => {
     if(message === "")  {
-        client.say(channel ," ")
+        bot.say(channel ," ")
         
             ; 
     }
