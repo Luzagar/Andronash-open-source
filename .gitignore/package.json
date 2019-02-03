@@ -1,7 +1,7 @@
 {
   "name": "Androansh open source",
-  "version": "1.0.1",
-  "description": "nash bot",
+  "version": "0.0.0",
+  "description": "le bot pour tous",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
